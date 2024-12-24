@@ -7,9 +7,17 @@ This project is a simple YouTube clone developed using **React**. It implements 
 
 #Technologies Used
 -React: A JavaScript library used to build the user interface.
+
+
 -Vite: A modern tool that provides fast development and build times for React projects.
+
+
 -Tailwind CSS: A utility-first CSS framework for responsive and customizable styling.
+
+
 -Axios: An HTTP client used for making API requests and handling data exchange.
+
+
 -React Router DOM: A library used for navigation and routing between different pages in the app
 
 
