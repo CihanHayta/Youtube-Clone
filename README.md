@@ -6,6 +6,8 @@ This project is a simple YouTube clone developed using **React**. It implements 
 
 
 #Technologies Used
+
+
 -React: A JavaScript library used to build the user interface.
 
 
